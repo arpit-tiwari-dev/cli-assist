@@ -1,0 +1,2 @@
+{"error":"Exit code ","timestamp":"2025-12-24 23:48:55","exit_code":null,"shell":"PowerShell","command":null}
+{"error":"The term \u0027jcn\u0027 is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.","timestamp":"2025-12-24 23:48:57","exit_code":null,"shell":"PowerShell","command":"jcn"}
